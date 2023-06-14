@@ -13,7 +13,7 @@
 - Python
 - Flask
 - MySQL, MongoDB, Redis
-- Git, GitLab
+- Git, GitHub
 - Docker
 - AWS, GCP
 - Tableau
